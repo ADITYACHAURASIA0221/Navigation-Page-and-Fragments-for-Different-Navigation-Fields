@@ -27,7 +27,9 @@ key features and functionalities of Firebase Authentication include:
 9) Password Reset: Users can reset their passwords through Firebase Authentication's builtin functionality
 
 #Front end
+
 The frontend for this application consists of several key pages and components:
+
 1. Login and Signup Pages:
 • These pages allow users to authenticate into the application.
 • They feature input fields for entering a username/email and password, along with "Login" and "Sign Up" buttons.
