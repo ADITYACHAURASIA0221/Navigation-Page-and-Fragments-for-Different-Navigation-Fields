@@ -12,6 +12,7 @@ feature-rich mobile app experience to its users
 
 
 #Backend 
+
 Firebase Authentication is a service provided by Google that enables developers to authenticate 
 users to their applications. It offers various sign-in methods out-of-the-box, making it easier for 
 developers to implement user authentication without having to build it from scratch. Some of the 
